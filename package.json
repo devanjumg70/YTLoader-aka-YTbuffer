@@ -1,0 +1,18 @@
+{
+  "name": "youtube-complete-buffer",
+  "version": "1.0.0",
+  "description": "Chrome extension that forces complete video buffering on YouTube videos",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Creating production build for chrome extension\" && mkdir -p dist && cp manifest.json dist/ && cp *.js dist/ && mkdir -p dist/icons && cp icons/* dist/icons/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "buffer",
+    "chrome-extension",
+    "video"
+  ],
+  "author": "",
+  "license": "MIT"
+}
