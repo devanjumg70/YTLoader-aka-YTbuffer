@@ -1,6 +1,14 @@
-# YouTube Complete Buffer Extension
+# YTLoader-aka-YTbuffer YouTube Complete Buffer Extension
 
 A Chrome extension that forces complete video buffering on YouTube for uninterrupted playback.
+This Chrome Extension makes YouTube videos load fully in advance, like how it used to work years ago. It helps you watch videos without annoying pauses or buffering, even if your internet is slow or unstable. Just install it, and enjoy smoother, uninterrupted playback automatically.
+
+This is the original, fully functional, simple one -- just download it and enjoy, that's it!
+
+
+I have made another one as well ⤵️
+
+https://github.com/devanjumg70/YTbuffer-Youtube-Video-Preloader   this is the one I am working on now, yet to test for full functionality and issues
 
 ## Features
 
@@ -39,3 +47,5 @@ This extension:
 ## License
 
 MIT
+
+Made with⚡by @anjumg70 @devanjumg70 for uninterrupted viewing experiences
